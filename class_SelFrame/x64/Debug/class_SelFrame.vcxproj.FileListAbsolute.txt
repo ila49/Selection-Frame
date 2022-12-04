@@ -1,0 +1,3 @@
+D:\C++17\class_SelFrame-master\x64\Debug\class_SelFrame.exe
+D:\C++17\1_Work\class_SelFrame\x64\Debug\class_SelFrame.exe
+D:\C++\1_Work\class_SelFrame\x64\Debug\class_SelFrame.exe
